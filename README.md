@@ -1,7 +1,7 @@
 # hapin-pilot-beacon-vs-personal
 
 ####
-Description of script:
+## Description of script:
 
 pilot-phase2b_exp_analysis_v3.R: master R scripts include data read-in, check, Beacon walk-through and direct and indirect exposure analysis
 analyze by each phase, can export hourly level indirect and direct PM2.5 exposure file
@@ -18,7 +18,7 @@ PEO_ECM_comparison_v2.R: R script for mother direct and indirect PM2.5 analysis 
 called by master R scripts.
 
 ###
-Data used:
+## Data used:
 HAPIN Guatemala folder:
 Box Sync\Exposure Data--GUATEMALA (Shirin Jabbarzadeh)\PILOT IIB\DATA
-###
+
